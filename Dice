@@ -1,0 +1,46 @@
+import random
+num=random.randint(1,6)
+
+if num==1:
+    print(" _________")
+    print("|         |")
+    print("|         |")
+    print("|    O    |")
+    print("|         |")
+    print("|_________|")
+if num==3:
+    print(" _________")
+    print("|         |")
+    print("| O       |")
+    print("|    O    |")
+    print("|       O |")
+    print("|_________|")
+    
+if num==5:
+    print(" _________")
+    print("|         |")
+    print("| O     O |")
+    print("|    O    |")
+    print("| O     O |")
+    print("|_________|")
+if num==2:
+    print(" _________")
+    print("|         |")
+    print("| O       |")
+    print("|         |")
+    print("|       O |")
+    print("|_________|")
+if num==4:
+    print(" _________")
+    print("|         |")
+    print("| O     O |")
+    print("|         |")
+    print("| O     O |")
+    print("|_________|")
+if num==6:
+    print(" _________")
+    print("|         |")
+    print("| O     O |")
+    print("| O     O |")
+    print("| O     O |")
+    print("|_________|")
