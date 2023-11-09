@@ -1,6 +1,7 @@
 import random
 num=random.randint(1,6)
-
+print("🎲 ROLL DICE 🎲 ".center(15))
+print("  ")
 if num==1:
     print(" _________")
     print("|         |")
