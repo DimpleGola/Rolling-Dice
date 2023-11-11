@@ -45,5 +45,5 @@ if num==6:
     print("| O     O |")
     print("| O     O |")
     print("|_________|")
-print()
+    print()
     print("Roll Dice again!")
